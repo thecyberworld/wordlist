@@ -1,14 +1,3 @@
-```bash
-/apache/conf/httpd.conf
-/apache/logs/access.log
-/apache/logs/error.log
-/apache/php/php.ini
-/apache2/logs/access.log
-/apache2/logs/error.log
-/bin/php.ini
-/etc/adduser.conf
-```
-
 /apache/conf/httpd.conf
 /apache/logs/access.log
 /apache/logs/error.log
